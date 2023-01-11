@@ -1,1 +1,1 @@
-# 1--SQL-Projects
+# 1-SQL-Projects
