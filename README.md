@@ -1,6 +1,6 @@
 # Data Analysis 4 Digital Music Store
 This Data Analysis poject help store owner to help how he can optimize buisness opportunities and to help answering buisness related questions.
-
+Note:  " This Project is only for training & education purpose"
 ## DataBase and Tools
    used for this project are
 #### PostgreSQL [Server]
